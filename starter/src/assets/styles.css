@@ -43,6 +43,11 @@ p {
     height: auto;
 }
 
+.cart > div img {
+    max-width: 175px;
+    height: auto;
+}
+
 .products > div h3 {
     font-weight: 800;
 }
